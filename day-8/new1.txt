@@ -1,0 +1,11 @@
+total 36
+drwxrwxr-x  2 kali kali 4096 Mar 21 09:00 .
+drwxrwxr-x 12 kali kali 4096 Mar 18 01:24 ..
+-rw-rw-r--  1 kali kali    0 Mar 21 09:03 new1.txt
+-rw-rw-r--  1 kali kali   24 Mar 21 09:00 new.txt
+-rw-rw-r--  1 kali kali   34 Mar 21 00:04 notes.txt
+-rwxrw-r--  1 kali kali  263 Mar 21 08:31 q1.sh
+-rwxrw-r--  1 kali kali   93 Mar 21 08:33 q2.sh
+-rwxrw-r--  1 kali kali  162 Mar 21 08:51 q3.sh
+-rwxrw-r--  1 kali kali  117 Mar 21 09:00 q4.sh
+-rw-rw-r--  1 kali kali  311 Mar 20 23:43 readme.md
