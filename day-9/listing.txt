@@ -1,0 +1,9 @@
+total 16
+drwxrwxr-x  2 kali kali 4096 Mar 22 09:36 .
+drwxrwxr-x 13 kali kali 4096 Mar 22 09:31 ..
+-rw-rw-r--  1 kali kali    0 Mar 22 09:36 listing.txt
+-rwxrw-r--  1 kali kali  105 Mar 22 09:36 q1.sh
+-rwxrw-r--  1 kali kali    0 Mar 22 09:31 q2.sh
+-rwxrw-r--  1 kali kali    0 Mar 22 09:31 q3.sh
+-rwxrw-r--  1 kali kali    0 Mar 22 09:31 q4.sh
+-rw-rw-r--  1 kali kali  294 Mar 22 09:33 readme.md
